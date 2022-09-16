@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "asda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkluker1337/IT-academy.git"
+  },
+  "keywords": [
+    "init"
+  ],
+  "author": "pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkluker1337/IT-academy/issues"
+  },
+  "homepage": "https://github.com/darkluker1337/IT-academy#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
