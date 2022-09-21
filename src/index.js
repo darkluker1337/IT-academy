@@ -1,8 +1,7 @@
 import "./main.scss";
-import { Button } from "./assets/button/button";
+import { Anketa } from "./assets/components/ANKETA/ANKETA";
 
 
 const root = document.querySelector('#root');
-
-root.insertAdjacentHTML('beforeend', Button())
+root.insertAdjacentHTML('beforeend',Anketa())
 
